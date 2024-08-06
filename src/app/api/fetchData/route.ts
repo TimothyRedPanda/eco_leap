@@ -66,7 +66,7 @@ export async function POST(req: NextRequest) {
 
 		const response = await fetch(url, options);
 		if (!response.ok) {
-			throw new Error(`Bob status: ${response.status}`);
+			throw new Error(`HTTP status: ${response.status}`);
 		}
 		const result = await response.json();
 		return NextResponse.json(result.data);
