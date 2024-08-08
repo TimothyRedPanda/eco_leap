@@ -11,5 +11,5 @@ export default function Home() {
 		<button type="button" onClick={handleClick}>
 			Fetch Data
 		</button>
-	)
+	);
 }
