@@ -16,10 +16,10 @@ export default function RootLayout({
 }>) {
 	return (
 		<html lang="en">
-			<head><link rel="stylesheet" href="https://use.typekit.net/kob3rhg.css"></link></head>
-			<body
-				className="w-screen h-screen text-center overflow-hidden"
-			>
+			<head>
+				<link rel="stylesheet" href="https://use.typekit.net/kob3rhg.css" />
+			</head>
+			<body className="w-screen h-screen text-center overflow-hidden">
 				<NavBar />
 
 				<main className="overflow-scroll">{children}</main>
