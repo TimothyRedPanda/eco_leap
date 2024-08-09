@@ -30,17 +30,17 @@ Unit testing is completed using Jest; this ensures code reliability and function
 
 <p align="center">
     <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />        
+    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />  
   <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />      
-    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
     <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
     <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/moose-hub/moose-hub/main/svgs/express.svg" />
     <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" />
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/moose-hub/moose-hub/main/svgs/snyk.svg" />
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/moose-hub/moose-hub/main/svgs/vercel.svg" />
     <img align="center" width="40" height="40" src="https://raw.githubusercontent.com/moose-hub/moose-hub/main/svgs/git.svg" />
-    <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
     <img align="center" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
    
 </p>
